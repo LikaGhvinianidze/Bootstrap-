@@ -1,0 +1,23 @@
+.news img {
+    width: 100%;
+}
+
+.news {
+    margin-top: 100px;
+}
+
+.news p {
+    padding-top: 10px;
+}
+
+.news h4 {
+    padding-bottom: 15px;
+}
+
+.logo img {
+    width: 50px;
+}
+
+.active-menu {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.9);
+}

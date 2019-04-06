@@ -127,4 +127,8 @@ figure img {
     .about-us button {
         margin-bottom: 30px;
     }
+
+    figure {
+        height: auto;
+    }
 }

@@ -128,7 +128,13 @@ figure img {
         margin-bottom: 30px;
     }
 
+    
+}
+
+
+@media (max-width: 540px) {
+
     figure {
-        height: auto;
+        height: 220px;
     }
 }

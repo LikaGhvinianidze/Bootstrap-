@@ -131,6 +131,13 @@ figure img {
     
 }
 
+@media (max-width: 767px) {
+
+    figure {
+        height: auto;
+    }
+}
+
 
 @media (max-width: 540px) {
 
